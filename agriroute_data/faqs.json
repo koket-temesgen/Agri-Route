@@ -1,0 +1,18 @@
+[
+    {
+        "question_en":"How much does it cost to transport teff?",
+        "answer_en":"Depends on distance and vehicle; use our pricing tool.",
+        "question_am":"\u1275\u134d \u1208\u1218\u1204\u12f5 \u12cb\u130b \u121d\u1295 \u1290\u12cd?",
+        "answer_am":"\u12a5\u1295\u130d\u12f3 \u12a5\u1293 \u1270\u123d\u12a8\u122d\u12ab\u122a \u120b\u12ed \u12e8\u121a\u12c8\u1230\u1295 \u1290\u12cd\u1363 \u12e8\u12cb\u130b \u1218\u1233\u122a\u12eb\u127d\u1295\u1295 \u1270\u1320\u1240\u1219\u1362",
+        "question_om":"Teffii geessuuf gatiin maal?",
+        "answer_om":"Fageenya fi gaariitti walqabata; meeshaa gatii keenya fayyadami."
+    },
+    {
+        "question_en":"How to find a driver?",
+        "answer_en":"Check our matching system for available drivers.",
+        "question_am":"\u12e8\u122b\u1231 \u1239\u134c\u122d \u12a5\u1295\u12f4\u1275 \u12a5\u1295\u12f0\u121a\u12eb\u1308\u1299?",
+        "answer_am":"\u12e8\u121a\u1308\u1299 \u1239\u134c\u122e\u127d\u1295 \u1208\u121b\u130d\u1298\u1275 \u12e8\u1218\u12eb\u12e3 \u1235\u122d\u12d3\u1273\u127d\u1295\u1295 \u12eb\u1228\u130b\u130d\u1321\u1362",
+        "question_om":"Duraa akkamitti argadha?",
+        "answer_om":"Sisteeemii walqabsiisaa keenya irratti duraa jiran ilaali."
+    }
+]

@@ -1,0 +1,51 @@
+driver_id,name,vehicle_type,capacity_kg,fuel_efficiency_km_per_l,current_city,latitude,longitude,available,daily_wage_etb,max_daily_distance_km
+D000,Driver 0,Truck 10T,10000,6,Bahir Dar,5.0935,46.9705,True,453,503
+D001,Driver 1,Van,2000,12,Hawassa,7.3347,45.4243,False,453,443
+D002,Driver 2,Van,2000,12,Addis Ababa,12.7995,38.5254,False,598,357
+D003,Driver 3,Van,2000,12,Gondar,12.583,43.8799,True,542,335
+D004,Driver 4,Van,2000,12,Dire Dawa,14.5246,44.7436,True,326,498
+D005,Driver 5,Van,2000,12,Dire Dawa,8.9771,40.8635,False,494,275
+D006,Driver 6,Van,2000,12,Gondar,12.8669,36.6329,True,309,425
+D007,Driver 7,Van,2000,12,Bahir Dar,7.0761,35.2715,True,541,576
+D008,Driver 8,Van,2000,12,Bahir Dar,11.7924,43.5866,True,544,469
+D009,Driver 9,Truck 10T,10000,6,Dire Dawa,7.7958,47.3503,True,481,546
+D010,Driver 10,Van,2000,12,Jimma,12.3007,43.8139,True,547,298
+D011,Driver 11,Truck 10T,10000,6,Bahir Dar,14.4136,37.1851,False,452,594
+D012,Driver 12,Van,2000,12,Hawassa,6.7946,36.1092,True,478,486
+D013,Driver 13,Truck 10T,10000,6,Mekelle,14.1442,44.9311,True,578,394
+D014,Driver 14,Truck 10T,10000,6,Jimma,13.7117,38.918,False,448,221
+D015,Driver 15,Truck 10T,10000,6,Hawassa,6.779,43.7121,True,545,309
+D016,Driver 16,Van,2000,12,Gondar,5.8036,41.0787,True,355,515
+D017,Driver 17,Truck 5T,5000,8,Gondar,11.9462,36.5892,False,415,526
+D018,Driver 18,Truck 10T,10000,6,Gondar,6.1543,34.503,True,370,202
+D019,Driver 19,Truck 5T,5000,8,Hawassa,14.4955,47.6687,True,543,444
+D020,Driver 20,Truck 10T,10000,6,Mekelle,10.9161,44.3387,True,330,593
+D021,Driver 21,Van,2000,12,Gondar,4.5199,41.612,False,319,289
+D022,Driver 22,Truck 5T,5000,8,Jimma,8.2639,45.5641,True,553,295
+D023,Driver 23,Truck 10T,10000,6,Addis Ababa,14.1773,47.432,True,590,508
+D024,Driver 24,Truck 10T,10000,6,Hawassa,4.7232,47.7449,False,578,468
+D025,Driver 25,Van,2000,12,Hawassa,9.1306,47.0784,True,357,369
+D026,Driver 26,Truck 10T,10000,6,Gondar,5.3524,39.8837,True,472,351
+D027,Driver 27,Truck 5T,5000,8,Dire Dawa,9.9727,44.3592,False,507,418
+D028,Driver 28,Van,2000,12,Addis Ababa,9.3742,34.3011,True,371,444
+D029,Driver 29,Truck 10T,10000,6,Hawassa,7.1891,36.7207,True,436,368
+D030,Driver 30,Truck 5T,5000,8,Mekelle,6.9422,43.8432,True,420,231
+D031,Driver 31,Truck 5T,5000,8,Hawassa,11.1128,39.9809,True,459,553
+D032,Driver 32,Truck 10T,10000,6,Mekelle,4.8385,46.742,True,412,268
+D033,Driver 33,Van,2000,12,Mekelle,8.9513,39.8247,True,581,441
+D034,Driver 34,Truck 5T,5000,8,Jimma,12.1338,45.0299,True,341,469
+D035,Driver 35,Truck 5T,5000,8,Dire Dawa,8.5929,43.5565,True,580,458
+D036,Driver 36,Truck 5T,5000,8,Mekelle,5.8046,41.0499,False,526,259
+D037,Driver 37,Truck 10T,10000,6,Addis Ababa,11.2554,43.7538,False,528,228
+D038,Driver 38,Truck 10T,10000,6,Dire Dawa,8.6691,40.6987,True,536,544
+D039,Driver 39,Truck 10T,10000,6,Mekelle,12.6988,43.8492,False,411,496
+D040,Driver 40,Van,2000,12,Addis Ababa,4.3325,39.3555,True,330,235
+D041,Driver 41,Truck 10T,10000,6,Hawassa,14.742,40.0811,True,369,592
+D042,Driver 42,Truck 10T,10000,6,Mekelle,10.8134,43.9393,False,495,429
+D043,Driver 43,Truck 10T,10000,6,Addis Ababa,13.4137,46.6015,True,576,268
+D044,Driver 44,Truck 5T,5000,8,Dire Dawa,10.9503,38.2165,True,365,572
+D045,Driver 45,Truck 5T,5000,8,Mekelle,14.6575,45.5223,True,578,417
+D046,Driver 46,Truck 5T,5000,8,Hawassa,9.564,45.3504,True,441,296
+D047,Driver 47,Truck 5T,5000,8,Addis Ababa,14.1865,43.8754,False,514,514
+D048,Driver 48,Truck 5T,5000,8,Bahir Dar,12.233,46.2563,True,351,504
+D049,Driver 49,Van,2000,12,Jimma,3.8828,41.9668,True,322,405

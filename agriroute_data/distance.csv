@@ -1,0 +1,22 @@
+from_city,to_city,distance_km,road_type,travel_time_hours,flood_prone,estimated_fuel_cost_etb
+Addis Ababa,Bahir Dar,322.2,gravel,6.3,0,5155.2
+Addis Ababa,Mekelle,503.4,paved,10.7,0,8054.4
+Addis Ababa,Hawassa,222.2,paved,4.1,0,3555.2
+Addis Ababa,Dire Dawa,349.2,gravel,7.5,1,5587.2
+Addis Ababa,Gondar,420.5,paved,7.0,0,6728.0
+Addis Ababa,Jimma,258.2,paved,5.5,0,4131.2
+Bahir Dar,Mekelle,310.0,dirt,5.0,0,4960.0
+Bahir Dar,Hawassa,519.9,paved,10.4,0,8318.4
+Bahir Dar,Dire Dawa,538.8,dirt,8.0,0,8620.8
+Bahir Dar,Gondar,111.6,paved,2.2,0,1785.6
+Bahir Dar,Jimma,440.0,gravel,6.9,1,7040.0
+Mekelle,Hawassa,725.5,dirt,11.6,1,11608.0
+Mekelle,Dire Dawa,506.4,paved,9.9,0,8102.4
+Mekelle,Gondar,238.6,paved,4.6,0,3817.6
+Mekelle,Jimma,708.5,paved,11.6,0,11336.0
+Hawassa,Dire Dawa,469.4,paved,8.7,0,7510.4
+Hawassa,Gondar,626.8,dirt,9.6,0,10028.8
+Hawassa,Jimma,193.9,gravel,3.7,1,3102.4
+Dire Dawa,Gondar,584.6,paved,11.1,0,9353.6
+Dire Dawa,Jimma,593.7,paved,8.9,0,9499.2
+Gondar,Jimma,551.5,gravel,9.4,0,8824.0

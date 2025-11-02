@@ -1,0 +1,11 @@
+from_region,to_region,distance_km,road_type,travel_time_hours,flood_prone,estimated_fuel_cost_etb
+Addis Ababa,Amhara,324.3,paved,6.9,0,5188.8
+Addis Ababa,Oromia,234.0,dirt,5.3,1,3744.0
+Addis Ababa,Tigray,503.8,dirt,9.7,0,8060.8
+Addis Ababa,SNNPR,340.6,dirt,6.1,0,5449.6
+Amhara,Oromia,557.2,gravel,12.2,0,8915.2
+Amhara,Tigray,314.3,dirt,6.2,1,5028.8
+Amhara,SNNPR,567.7,gravel,9.9,0,9083.2
+Oromia,Tigray,716.0,paved,15.2,0,11456.0
+Oromia,SNNPR,284.1,gravel,7.0,0,4545.6
+Tigray,SNNPR,824.3,paved,19.4,0,13188.8
